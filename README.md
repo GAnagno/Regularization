@@ -1,1 +1,1 @@
-# SNN
+# Regularization
